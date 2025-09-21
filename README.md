@@ -7,17 +7,14 @@ A production-ready pipeline validation system with enterprise-grade features inc
 ### Frontend (React + TypeScript)
 - **Interactive Pipeline Builder**: Drag-and-drop interface for creating pipelines
 - **Real-time Validation**: Instant feedback on pipeline structure and validity
-- **Error Boundaries**: Comprehensive error handling with user-friendly messages
-- **Responsive Design**: Modern UI with Tailwind CSS
-- **Performance Optimized**: Efficient rendering and state management
+- **Modern UI**: Clean interface with Tailwind CSS
+- **Error Handling**: User-friendly error messages and boundaries
 
 ### Backend (FastAPI + Python)
-- **Advanced Pipeline Validation**: DAG structure validation with semantic checks
-- **Security Middleware**: Rate limiting, input sanitization, and request size validation
-- **Structured Logging**: JSON-based logging with request tracking and performance metrics
-- **Exception Handling**: Comprehensive error handling with standardized error codes
-- **Health Monitoring**: Detailed health check endpoints
-- **Production Ready**: Enterprise-grade architecture with proper middleware stack
+- **Pipeline Validation**: DAG structure validation and connectivity checks
+- **API Endpoints**: RESTful API for pipeline validation
+- **Data Models**: Pydantic models for request/response validation
+- **Health Monitoring**: Health check endpoints
 
 ## 📊 Architecture Overview
 
